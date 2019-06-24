@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    background: #fd7e14;
+    font-family: sans-serif;
+}
+/*.posts {*/
+    /*background-color: oldlace;*/
+/*}*/
+.header {
+    color: white;
+}
+footer {
+    color: white;
+}
